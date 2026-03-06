@@ -12,8 +12,7 @@ Payoff Matrix Synthesis: Generates strategic-form tables for simultaneous-move g
 Web-Based Interface: A lightweight, accessible UI for rapid prototyping.
 
 Technical Implementation
-NLP/LLM Layer: [Mention your model here, e.g., GPT-4o / Llama 3]
+NLP/LLM Layer: gemini 3.1 pro
 
-Backend: [Mention your framework, e.g., Python/FastAPI or Node.js]
-
+Backend: NEXT.js
 Data Format: Designed to export or simulate formats compatible with Gambit (e.g., .efg or .nfg).
